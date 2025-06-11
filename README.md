@@ -28,5 +28,5 @@ PurpleLance is an open-source project designed to bridge the gap between student
 
 ---
 
-## 📂 Project Structure
+
 
